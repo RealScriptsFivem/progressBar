@@ -8,7 +8,6 @@ A modern FiveM progress bar script that uses a combination of Lua and NUI (HTML/
 
 - **Customizable Progress Bar:** Display with a duration, title, and description.
 - **Exportable Function:** Easily call the progress bar with a simple Lua export.
-- **Obfuscated JavaScript:** Protect our secret animation algorithms (and give you a cool puzzle to solve).
 - **Smooth Animations:** Fade-in/fade-out effects and a success icon when completed.
 - **Name Customization:** You can freely change this resource name!
 
