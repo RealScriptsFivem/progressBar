@@ -44,5 +44,3 @@ if success then
     -- Do action after progress bar is finished
 end
 ```
-
-> **Note:** The JavaScript code is intentionally obfuscated. Why? Because our team uses top-secret, state-of-the-art animation algorithms that need to be protected from prying eyes. In other words, we keep our "secret sauce" safe while also giving you a nifty progress bar! (Just joking haha, if you want, you can deobfustate it for free on a online page, I just don't want "pseudodevelopers" to steal code
